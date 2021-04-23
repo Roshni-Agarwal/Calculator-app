@@ -4,7 +4,7 @@ import "./css/button.css";
 
 class Keypad extends React.Component{
     render(){
-        return(
+        return(const 
             <div className='keypad'>
                 <button className='button'>1</button>
                 <button className='button'>2</button>
